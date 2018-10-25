@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Deakin Open Science Community"
+title = "Deakin Open Science Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -40,8 +40,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.banner]
         enable  = true
         bgImage = "images/bg.jpg"
-        heading = "WELCOME TO THE DEAKIN OPEN SCIENCE COMMUNITY"
-        description = "A hub for Open Science practitioners at Deakin University, Australia."
+        heading = "WELCOME TO THE DEAKIN OPEN RESEARCH NETWORK"
+        description = "A hub for Open Researchers at Deakin University, Australia."
         #btn     = true
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
@@ -56,8 +56,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open Science is growing in Australia, but discovering Open science can feel like an isolating experience. This is a mechanism to promote open science and open practices in Victoria, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open science."
-        image   = "images/about/invert.png"
+        content = "Open Science and open research practices are growing in Australia, but discovering Open science can feel like an isolating experience. This is a mechanism to promote open science and open practices in Victoria, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open science."
+        image   = "images/about/Deakin.png"
 
     # Call to Action
     [params.cta]
