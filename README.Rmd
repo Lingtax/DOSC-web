@@ -10,6 +10,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-# Deakin Open Science Community
+# Deakin Open Research Network
 
-This is the repo for the DOSC website.  The website is built using blogdown, and implements the timer hugo template. 
+This is the repo for the DORN website.  The website is built using blogdown, and implements the timer hugo template. 
