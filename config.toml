@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Deakin Open Science Network"
+title = "Deakin Open Research Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -70,8 +70,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "MEMBERS"
-        subtitle= "Want to find some open science advocates near you? Check out some of our members."
+        title   = "Activities"
+        subtitle= "Want to talk or learn about open research? Check out some of our Activities."
 
     # Feature Product Section
     [params.feature]
