@@ -1,12 +1,19 @@
 enable  : true
-title   : Network Executive
+title   : Network Members
 members  :
   - name  : Mathew Ling
     image : images/team/M_Ling_web.jpg
-    designation : Interim Co-ordinator
-    description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MOSN with other like minded radicals. 
+    designation : Lecturer in Psychology
+    description : Mathew is an Open Science advocate and R evangelist. Keen to help you learn more about computational reproducibility or any other part of open science. 
     twitter     : https://www.twitter.com/lingtax
     linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
+
+  - name  : Emily Kothe
+    image : images/team/ekothe.jpg
+    designation : Lecturer in Psychology
+    description : Emily is a Health Psych. She's quite handy with evidence synthesis, preprints, and reproducible reporting. 
+    twitter     : https://www.twitter.com/emilyandthelime
+
 
   
 #  - name  : Jesmin Martina
