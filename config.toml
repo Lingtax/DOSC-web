@@ -63,7 +63,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.cta]
         enable  = false
         title   = "Do you want to know more?"
-        content = "Get in touch and help us grow this community further.</br>You might not be the only person in your institute, let us know so we can start linking you with people in your area."
+        content = "Get in touch and help us grow this community further.</br>You might not be the only person in your division or faculty, let us know so we can start linking you with people in your area."
         btnText = "Contact us"
         btnURL  = "/contact"
 
